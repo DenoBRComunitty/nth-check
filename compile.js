@@ -1,6 +1,6 @@
 module.exports = compile;
 
-var BaseFuncs = require("boolbase"),
+var BaseFuncs = require("https://raw.githubusercontent.com/DenoBRComunitty/boolbase/master/mod.ts"),
     trueFunc = BaseFuncs.trueFunc,
     falseFunc = BaseFuncs.falseFunc;
 
